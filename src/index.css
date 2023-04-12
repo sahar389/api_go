@@ -1,0 +1,8 @@
+.card {
+  font-style: oblique;
+  width: 250px;
+  margin: 10px auto;
+  background-color: #f1aecb;
+  box-shadow: 10px 5px 10px #4b032c;
+  border-radius: 30px;
+}
