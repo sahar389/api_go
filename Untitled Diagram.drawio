@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.9">
+  <diagram name="Page-1" id="-Y9H0RPjuiOyMLAPOE1u">
+    <mxGraphModel dx="786" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1Xx4rSdVLbgod3kaqzSg-1" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;chunks_&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;id(PK)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;ocr_id(FK)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Vec_text&lt;/span&gt;&lt;/div&gt;&lt;div&gt;vec_meta&lt;/div&gt;&lt;div&gt;vec_vectore&lt;/div&gt;&lt;div&gt;created_at&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xx4rSdVLbgod3kaqzSg-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="180" as="sourcePoint" />
+            <mxPoint x="290" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Xx4rSdVLbgod3kaqzSg-3" value="table ocr&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="90" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xx4rSdVLbgod3kaqzSg-4" value="&lt;b&gt;chat_message&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xx4rSdVLbgod3kaqzSg-5" value="&lt;div&gt;&lt;b&gt;Query_chunk&lt;/b&gt;&lt;/div&gt;&lt;div&gt;id(PK)&lt;/div&gt;message id (FK)&lt;div&gt;vect_text&lt;/div&gt;&lt;div&gt;vec_meta&lt;/div&gt;&lt;div&gt;created_at&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="335" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xx4rSdVLbgod3kaqzSg-6" value="&lt;b&gt;semelarity search&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="220" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xx4rSdVLbgod3kaqzSg-7" value="&lt;b&gt;response&lt;/b&gt;&lt;div&gt;id(PK)&lt;/div&gt;&lt;div&gt;response_message&lt;/div&gt;&lt;div&gt;created_at&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="520" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1Xx4rSdVLbgod3kaqzSg-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="1Xx4rSdVLbgod3kaqzSg-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="410" as="sourcePoint" />
+            <mxPoint x="260" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Xx4rSdVLbgod3kaqzSg-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.017;entryY=0.324;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="1Xx4rSdVLbgod3kaqzSg-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="190" as="sourcePoint" />
+            <mxPoint x="460" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Xx4rSdVLbgod3kaqzSg-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="1Xx4rSdVLbgod3kaqzSg-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="410" as="sourcePoint" />
+            <mxPoint x="460" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
