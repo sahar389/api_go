@@ -16,7 +16,7 @@
         <mxCell id="IxTHgtQcxAOiBzHad24I-4" value="trigger for the masking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="340" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IxTHgtQcxAOiBzHad24I-5" value="mapping&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="IxTHgtQcxAOiBzHad24I-5" value="data mapping&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="600" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IxTHgtQcxAOiBzHad24I-6" value="&amp;nbsp;On va continuer avec la catégorisation des chunks ou bien se baser sur la catégorisation du LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
