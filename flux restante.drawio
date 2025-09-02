@@ -4,43 +4,43 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IxTHgtQcxAOiBzHad24I-1" value="masking data&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IxTHgtQcxAOiBzHad24I-1" value="masking data&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IxTHgtQcxAOiBzHad24I-2" value="vectorization et insertion dann un base de donnée&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IxTHgtQcxAOiBzHad24I-2" value="vectorization et insertion dann un base de donnée&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IxTHgtQcxAOiBzHad24I-3" value="extraction de tous les&amp;nbsp; regles juridique&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IxTHgtQcxAOiBzHad24I-3" value="extraction de tous les&amp;nbsp; regles juridique&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IxTHgtQcxAOiBzHad24I-4" value="trigger for the masking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IxTHgtQcxAOiBzHad24I-4" value="trigger for the masking" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IxTHgtQcxAOiBzHad24I-5" value="mapping&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IxTHgtQcxAOiBzHad24I-5" value="mapping&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IxTHgtQcxAOiBzHad24I-6" value="on va continuer avec la categorization de chuks ou se bas sur le llm&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IxTHgtQcxAOiBzHad24I-6" value="on va continuer avec la categorization de chuks ou se bas sur le llm&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IxTHgtQcxAOiBzHad24I-7" value="vectorization des regles&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IxTHgtQcxAOiBzHad24I-7" value="vectorization des regles&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IxTHgtQcxAOiBzHad24I-8" value="extraction des historique des echange entre le citoyen et le BF&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IxTHgtQcxAOiBzHad24I-8" value="extraction des historique des echange entre le citoyen et le BF&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IxTHgtQcxAOiBzHad24I-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="IxTHgtQcxAOiBzHad24I-5">
+        <mxCell id="IxTHgtQcxAOiBzHad24I-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="IxTHgtQcxAOiBzHad24I-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="110" as="sourcePoint" />
             <mxPoint x="510" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IxTHgtQcxAOiBzHad24I-10" value="resumer les extractions&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IxTHgtQcxAOiBzHad24I-10" value="resumer les extractions&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-30" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IxTHgtQcxAOiBzHad24I-11" value="RE pseudonimization&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IxTHgtQcxAOiBzHad24I-11" value="RE pseudonimization&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IxTHgtQcxAOiBzHad24I-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IxTHgtQcxAOiBzHad24I-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-30" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
