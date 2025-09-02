@@ -34,7 +34,7 @@
             <mxPoint x="510" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MiHPCB4M9yEh5JXoCpxC-3" value="validation de tous&amp;nbsp;&lt;div&gt;les&amp;nbsp;&lt;div&gt;chams masquer&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IxTHgtQcxAOiBzHad24I-9">
+        <mxCell id="MiHPCB4M9yEh5JXoCpxC-3" value="&lt;div&gt;&lt;div&gt;validation de tous les&amp;nbsp;&lt;/div&gt;&lt;div&gt;champs masqués &amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IxTHgtQcxAOiBzHad24I-9">
           <mxGeometry x="-0.2556" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
